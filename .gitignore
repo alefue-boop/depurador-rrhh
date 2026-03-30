@@ -1,0 +1,8 @@
+# Ignorar bases de datos
+*.csv
+*.xlsx
+*.xls
+
+# Ignorar carpetas de entorno virtual (si usas)
+.venv/
+__pycache__/
